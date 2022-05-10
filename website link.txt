@@ -1,1 +1,1 @@
-https://scrapor.skjs32.repl.co/
+scrapor.skjs32.repl.co
